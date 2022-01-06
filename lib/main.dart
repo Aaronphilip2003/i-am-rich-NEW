@@ -9,7 +9,7 @@ void main() {
       home: Scaffold(
         backgroundColor: Colors.blueGrey,
         appBar: AppBar(
-          backgroundColor: Colors.purple,
+          backgroundColor: Colors.yellow,
           title: Text("I am Rich", style: TextStyle(color: Color(0xFF000000))),
         ),
         bottomNavigationBar: BottomAppBar(),
